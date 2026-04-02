@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+Save Cood מציעה פתרונות אבטחה ומיגון מתקדמים לבתים ועסקים בישראל. מצלמות אבטחה, אזעקות ואינטרקום — הכל במקום אחד. גלו את ההגנה החכמה שמגיעה לכם עוד היום!
+
+### פתרונות
+https://example.com/solutions
+גלו את מגוון פתרונות האבטחה של Save Cood: התקנת מצלמות אבטחה לבית ולעסק, מערכות אזעקה מתקדמות, אינטרקום ורשתות מחשבים. טכנולוגיה שמגינה — בחרו את הפתרון שמתאים לכם!
+
+### אודות
+https://example.com/about
+Save Cood היא חברת אבטחה ומיגון בישראל המובילה בתחומה, עם ניסיון עשיר בהתקנת מצלמות, אזעקות ואינטרקום. אנחנו מאמינים שכל בית ועסק ראויים להגנה מקצועית — הכירו אותנו וגלו למה בוחרים בנו!
+
+### צור קשר
+https://example.com/contact
+רוצים להתקין מערכת אזעקה לעסק או מצלמות אבטחה לבית? צוות המומחים של Save Cood זמין עבורכם עכשיו. צרו קשר לייעוץ חינם וקבלו הצעת מחיר מותאמת אישית — אל תחכו, האבטחה שלכם מתחילה כאן!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
